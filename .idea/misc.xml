@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="BorrowPower/src/main/res/drawable/container.xml" value="0.25625" />
+        <entry key="BorrowPower/src/main/res/drawable/edit_text.xml" value="0.27076923076923076" />
+        <entry key="BorrowPower/src/main/res/drawable/ic_baseline_close_24.xml" value="0.11481481481481481" />
+        <entry key="BorrowPower/src/main/res/drawable/ic_baseline_edgesensor_low_24.xml" value="0.25885416666666666" />
+        <entry key="BorrowPower/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.18541666666666667" />
+        <entry key="BorrowPower/src/main/res/drawable/ic_baseline_money_24.xml" value="0.25885416666666666" />
+        <entry key="BorrowPower/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.27076923076923076" />
+        <entry key="BorrowPower/src/main/res/drawable/ic_baseline_sms_24.xml" value="0.18541666666666667" />
+        <entry key="BorrowPower/src/main/res/drawable/view_closer.xml" value="0.25625" />
+        <entry key="BorrowPower/src/main/res/layout/base_activity.xml" value="0.25" />
+        <entry key="BorrowPower/src/main/res/layout/loader.xml" value="0.25885416666666666" />
+        <entry key="BorrowPower/src/main/res/layout/register_fragment.xml" value="0.165" />
+        <entry key="BorrowPower/src/main/res/layout/success.xml" value="0.16927083333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

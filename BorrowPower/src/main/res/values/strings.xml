@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="meter_in_dept"> %1$s,  Tap to change</string>
+    <string name="welcome_messages">Hello, %1$s! You have %2$d new messages.</string>
+    <string name="no_internet">Please Check Your internet and try again</string>
+    <string name="phone_in_use">Phone number already is use</string>
+</resources>
