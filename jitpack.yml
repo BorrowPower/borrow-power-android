@@ -2,4 +2,4 @@ jdk:
   - openjdk11
 
 install:
-  - ./gradlew build :CollectWidget:publishToMavenLocal
+  - ./gradlew build :BorrowPower:publishToMavenLocal
